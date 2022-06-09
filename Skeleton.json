@@ -1,0 +1,117 @@
+{
+	"_meta": {
+		"sources": [{
+			"json": "NF:Skel",
+			"full": "Skeleton",
+			"abbreviation": "NF",
+			"color": "#FF0000",
+			"authors": [
+				"Slushmush"
+			],
+			"url": "",
+			"version": "2022.1",
+			"source": "Nightfall"
+		}],
+		"dateAdded": 1545342498,
+		"dateLastModified": 1545342498
+	},
+	"race": [{
+		"name": "Skeleton",
+		"source": "NF:Skel",
+		"ability": [{
+			"con": 2,
+			"dex": 1
+		}],
+		"size": [
+			"M",
+			"S"
+		],
+		"speed": {
+			"walk": 30
+		},
+		"languageProficiencies": [{
+			"common": true,
+			"anyStandard": 1
+		}],
+		"immune": [
+			"poison"
+		],
+		"conditionImmune": [
+			"disease",
+			"poisoned",
+			"exhaustion"
+		],
+		"resist": [
+			"piercing"
+		],
+		"vulnerable": [
+			"bludgeoning"
+		],
+		"darkvision": 60,
+		"traitTags": [
+			"Undead"
+		],
+		"entries": [{
+				"name": "Alignment",
+				"entries": [
+					"You retain the alignment that you had at the time of your death, unless the circumstances of your death would have changed it. It is typical of skeletons to tend to evil alignments."
+				]
+			},
+			{
+				"name": "Size",
+				"entries": [
+					"Depending on the race that the skeleton was before dying, a skeleton can be small or medium sized."
+				]
+			},
+			{
+				"name": "Speed",
+				"entries": [
+					"Your base walking speed is 30 feet."
+				]
+			},
+			{
+				"name": "Through The Ribs",
+				"entries": [
+					"You are resistant to piercing damage, but vulnerable to bludgeoning."
+				]
+			},
+			{
+				"name": "Undead Fortitude",
+				"entries": [
+					"You are immune to poison damage, disease and the poisoned condition."
+				],
+				"image": "https://assets.forge-vtt.com/604bb0e330aee7ebcfb5a09e/Homebrew/SkeletonFeatures.png?width=250"
+			},
+			{
+				"name": "Undead Nature",
+				"entries": [
+					"You do not require air, food, water, or sleep. You can finish a long rest in 4 hours by doing light activity, such as reading."
+				]
+			},
+			{
+				"name": "Undead Resilience",
+				"entries": [
+					"You do not suffer environmental hazards related to temperature, such as extreme heat or extreme cold."
+				]
+			},
+			{
+				"name": "Modular Body",
+				"entries": [
+					"As an action, you may remove or attach one of your limbs or your head. While detached, you may use part of your movement on your turn to move a limb. The limb functions the same as if it were still connected to you. If you detach one leg, your body can only move up to half of your speed. If you detach both legs, your body cannot move. If you detach your head, it uses your senses to see - all other limbs, including your body, are considered blind."
+				]
+			},
+			{
+				"name": "Darkvision",
+				"entries": [
+					"Your glowing eyes allow you to see in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+				]
+			},
+			{
+				"name": "Languages",
+				"entries": [
+					"You can read and write Common, and one language that you knew prior to death. You can not talk."
+				]
+			}
+		]
+	}]
+}
