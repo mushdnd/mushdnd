@@ -20,7 +20,7 @@
 		"source": "NF:Tief",
 		"ability": [{
 			"cha": 2,
-			"str": 1
+			"con": 1
 		}],
 		"size": [
 			"M"
