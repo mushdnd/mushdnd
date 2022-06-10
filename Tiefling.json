@@ -74,8 +74,7 @@
 				"name": "Legacy of Mnemosyne",
 				"entries": [
 					"You know the Sapping Sting cantrip. When you reach 3rd level, you can cast the Hex spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Wither and Bloom spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-				],
-				"image": "https://assets.forge-vtt.com/604bb0e330aee7ebcfb5a09e/Homebrew/SkeletonFeatures.png?width=250"
+				]
 			},
 			{
 				"name": "Darkvision",
